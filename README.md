@@ -1,4 +1,4 @@
-# Remove-PDF-restrictions
+# PDF-Antiblock
 Remove PDF restrictions. Console tool for Windows.
 
 ===Installing===
