@@ -3,7 +3,7 @@ Remove PDF restrictions. Console tool for Windows.
 
 ### Installing
 
-1. Copy folder to "C:\Program Files".
+#### 1. Copy folder to "C:\Program Files".
 
 Such it will looks like the:
 ```
@@ -18,7 +18,7 @@ Such it will looks like the:
                  pdf-antiblock.reg
 ```
 
-2. Execute pdf-antiblock.reg
+#### 2. Execute pdf-antiblock.reg
      It will be register context menu action on .pdf
 
 All done!
