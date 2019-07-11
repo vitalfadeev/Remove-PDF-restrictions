@@ -1,0 +1,1 @@
+"C:\Program Files\pdf-antiblock\gswin64c.exe" -dSAFER -dBATCH -dNOPAUSE -sDEVICE=pdfwrite -sFONTPATH=%windir%/fonts;xfonts;. -sPDFPassword= -dPDFSETTINGS=/prepress -dPassThroughJPEGImages=true -sOutputFile=%1-antiblock.pdf %1 
